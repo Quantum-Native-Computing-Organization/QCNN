@@ -1,5 +1,6 @@
 # QCNN
 This repository has the code applied in [Quantum convolutional neural network for classical data classification](https://arxiv.org/abs/2108.00661) Paper
+The original code by the author is [here](https://github.com/takh04/QCNN)
 
 ## How do I run it on a local system/codespace/Anaconda environment?
 `cd QCNN`
