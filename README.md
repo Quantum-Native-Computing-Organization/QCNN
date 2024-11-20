@@ -12,8 +12,22 @@ There are two ways you can run the code. One is through Python, and another one 
 
 `python result.py`
 
+It might look like this on **GitHub Codespace**:
+![Image description](readme_images/github_codespace.png)
+
+
+
+It might look like this on **VS Code running on Anaconda**:
+![Image description](readme_images/anaconda_vscode.png)
+
+
 ## Option_02: Run it on a notebook
 Go to the **Notebook** folder and run the **QCNN_test** code with the **requirements.txt** file and existing **Result/result.txt** file
+
+It might look like this on **Notebook/Google Collab**:
+
+![Notebook File](readme_images/notebook.png)
+
 
 ## Result
 Once you run the result.py file, you will see accuracy for U_SU4_no_pooling, U_SU4,  U_SU4_1D, U_9_1D
