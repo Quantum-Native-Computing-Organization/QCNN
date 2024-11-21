@@ -141,7 +141,7 @@ def Benchmarking(dataset, classes, Unitaries, U_num_params, Encodings, circuit, 
 
     for i in range(I):
         for j in range(J):
-            f = open('Result/result.txt', 'a+')
+            f = open('Result/result.txt', 'a')
             U = Unitaries[i]
             U_params = U_num_params[i]
             Encoding = Encodings[j]
