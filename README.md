@@ -22,7 +22,7 @@ It might look like this on **VS Code running on Anaconda**:
 
 
 ## Option_02: Run it on a notebook
-Go to the **Notebook** folder and run the **QCNN_test** code with the **requirements.txt** file and existing **Result/result.txt** file
+Go to the **Notebook** folder and run the **QCNN_Test_jupyternotebook.ipynb** code with the **requirements.txt** file and existing **Result/result.txt** file
 
 It might look like this on **Notebook/Google Collab**:
 
