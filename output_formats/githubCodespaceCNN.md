@@ -1,7 +1,7 @@
-## Output once we run python CNN.py
+## Output once we run ""python CNN.py""
 
 
-2024-11-22 08:53:48.297482: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+```2024-11-22 08:53:48.297482: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
 To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
 2024-11-22 08:53:49.586748: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
 Downloading data from https://storage.googleapis.com/tensorflow/tf-keras-datasets/train-labels-idx1-ubyte.gz
@@ -616,4 +616,4 @@ Epoch 10/10
 [iteration]: 160, [LOSS]: 0.709413
 [iteration]: 170, [LOSS]: 0.698804
 [iteration]: 180, [LOSS]: 0.693777
-[iteration]: 190, [LOSS]: 0.687012
+[iteration]: 190, [LOSS]: 0.687012```
