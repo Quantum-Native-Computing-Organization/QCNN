@@ -1,4 +1,6 @@
-iteration:  0  cost:  18.431687935133894
+## Output we get once run "python result.py" on VS Code (Anaconda)
+
+```iteration:  0  cost:  18.431687935133894
 iteration:  10  cost:  14.384648025874542
 iteration:  20  cost:  13.526813436855775
 iteration:  30  cost:  8.216551686725154
@@ -90,4 +92,4 @@ iteration:  160  cost:  17.262395236077875
 iteration:  170  cost:  17.26638147807572
 iteration:  180  cost:  16.335452754949493
 iteration:  190  cost:  15.543339210194283
-Accuracy for U_9_1D resize256 :0.658
+Accuracy for U_9_1D resize256 :0.658```
