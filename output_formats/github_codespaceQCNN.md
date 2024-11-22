@@ -1,4 +1,6 @@
-iteration:  0  cost:  18.003791653855483
+## Output once we run "python result.py"
+
+```iteration:  0  cost:  18.003791653855483
 iteration:  10  cost:  13.632649149578505
 iteration:  20  cost:  10.430631541147541
 iteration:  30  cost:  9.817469671097049
@@ -93,4 +95,4 @@ iteration:  160  cost:  16.220045364071535
 iteration:  170  cost:  16.642494559261095
 iteration:  180  cost:  16.039954067530466
 iteration:  190  cost:  16.914077980636538
-Accuracy for U_9_1D resize256 :0.671
+Accuracy for U_9_1D resize256 :0.671```
