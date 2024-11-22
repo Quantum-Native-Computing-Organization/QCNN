@@ -1,4 +1,6 @@
-Loss History for QCNN circuits, U_SU4 resize256 with cross_entropy
+## Output once we run the "python result.py" on Google Cloud
+
+```Loss History for QCNN circuits, U_SU4 resize256 with cross_entropy
 iteration:  0  cost:  17.488309311345876
 iteration:  10  cost:  17.305089371860788
 iteration:  20  cost:  17.019926370845482
@@ -91,4 +93,4 @@ iteration:  160  cost:  17.47097102629646
 iteration:  170  cost:  17.39076561577965
 iteration:  180  cost:  17.12665870900919
 iteration:  190  cost:  17.574015993404394
-Accuracy for U_9_1D resize256 :0.4295
+Accuracy for U_9_1D resize256 :0.4295```
