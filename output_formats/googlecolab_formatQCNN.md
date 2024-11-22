@@ -1,3 +1,6 @@
+## Output once we run "python result.py" on Google Colab
+
+```
 iteration:  0  cost:  17.87436258530003
 iteration:  10  cost:  16.96731243431361
 iteration:  20  cost:  17.165908440817425
@@ -90,4 +93,4 @@ iteration:  160  cost:  16.55051352129664
 iteration:  170  cost:  17.206070540902807
 iteration:  180  cost:  17.50025012747944
 iteration:  190  cost:  16.093620816992825
-Accuracy for U_9_1D resize256 :0.674
+Accuracy for U_9_1D resize256 :0.674```
